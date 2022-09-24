@@ -1,2 +1,2 @@
 # Statistics
-Some Exercise from Dataset
+Statistics Exercise from Dataset _ Melbourne Housing Snapshot (kaggle.com)
